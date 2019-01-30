@@ -7,5 +7,5 @@ package arrayreview;
  * Date: 
  */
 public class Scanner {
-
+  // i dont remeber what this is supposed to do
 }
